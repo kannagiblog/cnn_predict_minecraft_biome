@@ -1,0 +1,16 @@
+Ocean
+Plains
+Desert
+ExtremeHills
+Forest
+BirchForest
+RoofedForest
+Swampland
+IcePlains
+Jungle
+Taiga
+MegaTaiga
+Savanna
+Mesa
+Hell
+End
